@@ -35,7 +35,7 @@
 - **Include prices and timesheet** for every change
 - An **invoice of $150 - $500 charge** (this price depends on the size of the site and the working hours were spent)
 
-# My thoughts
+### My thoughts
 - Avoid giving an estimate/proposal before making a site Report
 - Don not try to start the Report before getting the credentials
 - Tell your customer that this Report is like a Doctor diagnosis and that it can be used for future tasks
