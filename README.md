@@ -1,9 +1,10 @@
-# Drupal fixes - proposal HowTo
+# Drupal fixes and changes Report
 
 > How to estimate the costs and time needed to fix issues or make changes to a Drupal website that you did not develop!
 > Before giving a proposal you need to inspect the site! But inspecting a Drupal site is not as simple as you believe...
+> Here is a **basic checklist** of the Report that you need to deliver before doing anything on the site.
 
-### Before the report needs
+### Before the Report needs
 - Drupal admin credentials (user 1)
 - Hosting credentials (see server/system details, tools installed etc)
 - Other services credentials (eg CDN, SSL provider, Google Analytics etc)
