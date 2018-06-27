@@ -37,7 +37,7 @@
 
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report
-- Don not try to start the Report before getting the credentials
+- Do not start the Report before getting the credentials
 - Tell your customer that this Report is like a Doctor diagnosis and that it can be used for future tasks
 - Do not forget to include costs such as for copying the site/db, creating a dev environment, uploading changes to live environment (eg usage of features module) etc
 - After the Report, avoid touching projects that are not well structured and do not follow (Drupal) best practices
