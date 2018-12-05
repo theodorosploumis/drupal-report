@@ -68,6 +68,7 @@ Other (not so important but could be important)
 - [prod_check (7.x, 8.x)](https://www.drupal.org/project/prod_check)
 - [d8_migration_check (7.x)](https://www.drupal.org/project/d8_migration_check)
 - [site_audit (7.x, 8.x)](https://www.drupal.org/project/site_audit)
+- [upgrade_check (6.x, 7.x)](https://www.drupal.org/project/upgrade_check)
 
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report.
