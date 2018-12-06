@@ -6,7 +6,7 @@
 
 ### Before the Report needs
 - [ ] **Technical specification document** (if exists).
-- [ ] Current **Process flow diagram** (in case the sytmem communicates with other services)
+- [ ] Current **Process flow diagram** (in case the system communicates with other services)
 - [ ] **Drupal admin credentials** (user 1, or Admin role account). This is needed to check the existing structure, functionality, modules etc. Normally there whould be a dev subdomain to log in. If not credentials and demo provided ask for the git code and a dumb database to install the project locally.
 - [ ] A **brief of the project scope**.
 - [ ] What are the **project goals** (eg register new members)? How do they measure them? Do they currently meet the goals?
