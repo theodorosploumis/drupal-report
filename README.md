@@ -12,6 +12,7 @@
 - [ ] What are the **project goals** (eg register new members)? How do they measure them? Do they currently meet the goals?
 - [ ] What happened with the previous Developer/Company (and there is no collaboration anymore)?
 - [ ] **Why the site needs the changes** (fixes, update, upgrate, migration etc)?
+- [ ] **How much time needed to build the project?**
 - [ ] Will there be a **new Skin** (or theme, template whatever they call it)?
 - [ ] What are the **things that do not work well** now and they would like to improve?
 - [ ] How many **different Authors** are currently adding content?
