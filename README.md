@@ -74,6 +74,7 @@ Other (not so important but could be important)
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report.
 - Do not start the Report before getting the credentials or a demo.
+- If able propose to fix one thing at a time using agile methodology and get paid by the hour.
 - Tell your customer that this Report is like a Doctor diagnosis and that it can be used for future tasks.
 - Do not forget to include costs such as for copying the site/db, creating a dev environment, uploading changes to live environment (eg usage of features module) etc.
 - After the Report, avoid touching projects that are not well structured and do not follow (Drupal) best practices!
