@@ -1,7 +1,7 @@
 # Drupal fixes and changes Report
 
 > How to estimate the costs and time needed to fix issues or make changes to a Drupal website that you did not develop!
-> Before giving a proposal you need to inspect the site! But inspecting a Drupal site is not as simple as you believe...
+> Before giving a proposal (RFP) you need to inspect the site! But inspecting a Drupal site is not as simple as you believe...
 > Here is a **basic checklist** of the Report that you need to deliver before doing anything on the site.
 
 ### Before the Report needs
@@ -35,6 +35,9 @@ Other (not so important but could be important)
 
 ### Drupal specific Reports
 - [ ] Drupal content Structure (Content types, taxonomy etc)
+- [ ] What is the main functionality (Features and Functionality, F&F) provided (eg login, register, add comments, share content etc)
+- [ ] Drupal forms
+- [ ] How many different pages are there
 - [ ] Usage of special modules (eg Panels, Features, Context, Paragraphs etc)
 - [ ] Drupal user Roles
 - [ ] Create 1 demo user for each Drupal Role and get into the site to inspect functionality (take screenshots, investigate bad UX etc). Alternatively you can use [masquerade](https://www.drupal.org/project/masquerade) to become another user) 
@@ -56,7 +59,7 @@ Other (not so important but could be important)
 - [ ] Include images/screenshots when needed to explain the text
 - [ ] **Propose changes** with details for every aspect that need to change
 - [ ] **Include prices and timesheet** for every change mentioned
-- [ ] An **invoice of $300 - $1000 charge** (this price depends on the size of the site and the working hours were spent)
+- [ ] An **invoice of 10hr - 100hr working** (the working hours depend on the size of the site)
 
 ### Useful Drupal modules
 - [advstatus (7.x)](https://www.drupal.org/project/advstatus)
@@ -74,9 +77,13 @@ Other (not so important but could be important)
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report.
 - Do not start the Report before getting the credentials or a demo.
+- Try to find out what does the website mean for the owner (eg if it is the main income source).
 - If able propose to fix one thing at a time using agile methodology and get paid by the hour.
 - Tell your customer that this Report is like a Doctor diagnosis and that it can be used for future tasks.
 - Do not forget to include costs such as for copying the site/db, creating a dev environment, uploading changes to live environment (eg usage of features module) etc.
 - After the Report, avoid touching projects that are not well structured and do not follow (Drupal) best practices!
 - Avoid expressing negative for other Companies/Developers (talk about the site and not about the people that were involved).
 - Such projects are good to "learn" new things and other people practices (educational projects).
+
+### Useful resources
+- [The Gizra way pricing method](https://gist.github.com/theodorosploumis/826412bb5f2dd0aadf2728f950ffa225)
