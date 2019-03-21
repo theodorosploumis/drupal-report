@@ -63,17 +63,23 @@ Other (not so important but could be important)
 - [ ] An **invoice of 10hr - 100hr working** (the working hours depend on the size of the site)
 
 ### Useful Drupal modules
-- [advstatus (7.x)](https://www.drupal.org/project/advstatus)
 - [forena (7.x, 8.x)](https://www.drupal.org/project/forena)
+
+- [site_audit (7.x, 8.x)](https://www.drupal.org/project/site_audit)
+- [security_review (7.x, 8.x)](https://www.drupal.org/project/security_review)
+- [seckit (7.x, 8.x)](https://www.drupal.org/project/seckit)
+- [seo_checklist (7.x, 8.x)](https://www.drupal.org/project/seo_checklist)
+- [prod_check (7.x, 8.x)](https://www.drupal.org/project/prod_check)
+
 - [field_report (8.x)](https://www.drupal.org/project/field_report)
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
 - [quant (7.x)](https://www.drupal.org/project/quant)
+- [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
+- [erd (7.x, 8.x)](https://www.drupal.org/project/erd)
 - [panels_pane_report (7.x)](https://www.drupal.org/project/panels_pane_report)
-- [mysqlreport (7.x)](https://www.drupal.org/project/mysqlreport)
-- [prod_check (7.x, 8.x)](https://www.drupal.org/project/prod_check)
-- [d8_migration_check (7.x)](https://www.drupal.org/project/d8_migration_check)
-- [site_audit (7.x, 8.x)](https://www.drupal.org/project/site_audit)
+
 - [upgrade_check (6.x, 7.x)](https://www.drupal.org/project/upgrade_check)
+- [d8_migration_check (7.x)](https://www.drupal.org/project/d8_migration_check)
 
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report.
