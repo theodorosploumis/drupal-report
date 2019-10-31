@@ -93,7 +93,6 @@ Other (not so important but could be important)
 - Such projects are good to "learn" new things and other people practices (educational projects).
 
 ### Useful resources
-- [Module d8_migration_check: Drupal 8 upgrade estimate](https://www.drupal.org/project/d8_migration_check)
 - [The Gizra way pricing method](https://gist.github.com/theodorosploumis/826412bb5f2dd0aadf2728f950ffa225)
 - [Palantir Build Spec 1.0 - Google Sheets](https://docs.google.com/spreadsheets/d/15htLLWLguhwiuTLg_nndQNpgWVdUMy6UaR_d1q-v6iw/edit#gid=0)
 - [Drupal Early Estimation Sheet Template (version 3, Feb 2011) - Google Sheets](https://docs.google.com/spreadsheets/d/13MGHIxFOtbJ2Qxygc_GxKzxqghLiK1-7YgNiq95ypWE/edit?hl=en#gid=0)
