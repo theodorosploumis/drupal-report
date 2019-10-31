@@ -1,4 +1,4 @@
-# Drupal fixes and changes Report
+# Drupal fixes & changes Report, RFP tips
 
 > How to estimate the costs and time needed to fix issues or make changes to a Drupal website that you did not develop!
 > Before giving a proposal (RFP) you need to inspect the site! But inspecting a Drupal site is not as simple as you believe...
