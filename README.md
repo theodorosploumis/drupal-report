@@ -81,6 +81,13 @@ Other (not so important but could be important)
 - [d8_migration_check (7.x)](https://www.drupal.org/project/d8_migration_check)
 - [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer)
 
+### Drupal Console commands
+
+https://drupalconsole.com/docs/en/commands
+
+- drupal field:info
+- drupal debug:\*
+
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report.
 - Do not start the Report before getting the credentials or a demo.
