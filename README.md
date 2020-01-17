@@ -31,7 +31,8 @@ Other (not so important but could be important)
 - [ ] Site performance (use well known services such as [PageSpeed](https://developers.google.com/speed/pagespeed/insights), [gtmetrix](https://gtmetrix.com) and [yellowlab.tools](https://yellowlab.tools))
 - [ ] SEO (Does the project follow the basic SEO rules?)
 - [ ] Mobile UX and design (does it work well on small screens?)
-- [ ] Heatmap reports (eg using tools like [Hotjar](https://www.hotjar.com)).
+- [ ] Heatmap reports (eg using tools like [Hotjar](https://www.hotjar.com))
+- [ ] Security issues reports (eg using [hackertarget.com/drupal-security-scan](https://hackertarget.com/drupal-security-scan/), [securityheaders.com](https://securityheaders.com/), [sitecheck.sucuri.net](https://sitecheck.sucuri.net/))
 
 ### Drupal specific Reports
 - [ ] Drupal content Structure (Content types, taxonomy etc)
