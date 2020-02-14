@@ -40,7 +40,7 @@ Other (not so important but could be important)
 - [ ] Drupal forms
 - [ ] How many different pages are there
 - [ ] Is there a mobile verison of the website or responsive css styles
-- [ ] Usage of special modules (eg Panels, Features, Context, Paragraphs etc)
+- [ ] Usage of special modules (eg Panels, Features, Context, Paragraphs, php etc)
 - [ ] Drupal user Roles
 - [ ] Create 1 demo user for each Drupal Role and get into the site to inspect functionality (take screenshots, investigate bad UX etc). Alternatively you can use [masquerade](https://www.drupal.org/project/masquerade) to become another user) 
 - [ ] Drupal best practices
