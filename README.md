@@ -101,6 +101,8 @@ https://drupalconsole.com/docs/en/commands
 - Such projects are good to "learn" new things and other people practices (educational projects).
 
 ### Useful resources
+- [Drupal Audit Guide](https://axelerant.github.io/engineering/drupal-audit)
+- [Slide, Auditing Drupal Sites](https://www.slideshare.net/exove/auditing-drupal-sites)
 - [The Gizra way pricing method](https://gist.github.com/theodorosploumis/826412bb5f2dd0aadf2728f950ffa225)
 - [Palantir Build Spec 1.0 - Google Sheets](https://docs.google.com/spreadsheets/d/15htLLWLguhwiuTLg_nndQNpgWVdUMy6UaR_d1q-v6iw/edit#gid=0)
 - [Drupal Early Estimation Sheet Template (version 3, Feb 2011) - Google Sheets](https://docs.google.com/spreadsheets/d/13MGHIxFOtbJ2Qxygc_GxKzxqghLiK1-7YgNiq95ypWE/edit?hl=en#gid=0)
@@ -112,7 +114,7 @@ https://drupalconsole.com/docs/en/commands
 - [How we estimate our Drupal web development projects — Internetdevels](https://internetdevels.com/blog/how-we-estimate-drupal-web-development-projects)
 - [Estimating Drupal Projects | Metal Toad](https://www.metaltoad.com/blog/estimating-drupal-projects)
 - [Are we afraid to estimate our work in Drupal and open source? - Drupal Webform Estimation Open Source](https://www.jrockowitz.com/blog/estimation)
-- [How We Estimate Drupal Projects - Codesushi. Web & Application Solutions](https://codesushi.co/codesushi/estimate-drupal-projects/)
+- [How We Estimate Drupal Projects - Codesushi. Web & Application Solutions](https://codesushi.co/codesushi/estimate-drupal-projects/) 
 - [10 problems with Web Development Projects and how we've solved them](https://www.freelock.com/newsletter/10-problems-web-development-projects-and-how-weve-solved-them)
 - [Video, DrupalCon New Orleans 2016: Let's be honest: Estimation is guessing](https://www.youtube.com/watch?v=rcYYOquSk-Y)
 - [Video, DrupalCon Vienna 2017: Estimates are dead, long live forecasting!](https://www.youtube.com/watch?v=_pxWPGYRLDA)
