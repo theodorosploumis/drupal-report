@@ -89,6 +89,10 @@ https://drupalconsole.com/docs/en/commands
 - drupal field:info
 - drupal debug:\*
 
+### Scripts to generate software report
+
+- https://github.com/theodorosploumis/generate_drupal_report
+
 ### My thoughts
 - Avoid giving an estimate/proposal before making a site Report.
 - Do not start the Report before getting the credentials or a demo.
