@@ -42,7 +42,7 @@ Other (not so important but could be important)
 - [ ] Is there a mobile verison of the website or responsive css styles
 - [ ] Usage of special modules (eg Panels, Features, Context, Paragraphs, php etc)
 - [ ] Drupal user Roles
-- [ ] Create 1 demo user for each Drupal Role and get into the site to inspect functionality (take screenshots, investigate bad UX etc). Alternatively you can use [masquerade](https://www.drupal.org/project/masquerade) to become another user) 
+- [ ] Create 1 demo user for each Drupal Role and get into the site to inspect functionality (take screenshots, investigate bad UX etc). Alternatively you can use [masquerade](https://www.drupal.org/project/masquerade) to become another user)
 - [ ] Drupal best practices
 - [ ] Theming (uses ds, template files, preprocess functions, field layout, panels, patternlab etc)
 - [ ] Total modules enabled
@@ -62,6 +62,8 @@ Other (not so important but could be important)
 - [ ] **Propose changes** with details for every aspect that need to change
 - [ ] **Include prices and timesheet** for every change mentioned
 - [ ] An **invoice of 10hr - 100hr working** (the working hours depend on the size of the site)
+
+Example [report here](example-report.md).
 
 ### Useful Drupal modules
 - [forena (7.x, 8.x)](https://www.drupal.org/project/forena)
@@ -119,7 +121,7 @@ https://drupalconsole.com/docs/en/commands
 - [How we estimate our Drupal web development projects — Internetdevels](https://internetdevels.com/blog/how-we-estimate-drupal-web-development-projects)
 - [Estimating Drupal Projects | Metal Toad](https://www.metaltoad.com/blog/estimating-drupal-projects)
 - [Are we afraid to estimate our work in Drupal and open source? - Drupal Webform Estimation Open Source](https://www.jrockowitz.com/blog/estimation)
-- [How We Estimate Drupal Projects - Codesushi. Web & Application Solutions](https://codesushi.co/codesushi/estimate-drupal-projects/) 
+- [How We Estimate Drupal Projects - Codesushi. Web & Application Solutions](https://codesushi.co/codesushi/estimate-drupal-projects/)
 - [10 problems with Web Development Projects and how we've solved them](https://www.freelock.com/newsletter/10-problems-web-development-projects-and-how-weve-solved-them)
 - [Video, DrupalCon New Orleans 2016: Let's be honest: Estimation is guessing](https://www.youtube.com/watch?v=rcYYOquSk-Y)
 - [Video, DrupalCon Vienna 2017: Estimates are dead, long live forecasting!](https://www.youtube.com/watch?v=_pxWPGYRLDA)
