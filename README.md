@@ -108,7 +108,7 @@ https://drupalconsole.com/docs/en/commands
 - Such projects are good to "learn" new things and other people practices (educational projects).
 
 ### Useful resources
-- [Drupal Audit Guide](https://axelerant.github.io/engineering/drupal-audit)
+- [Drupal Audit Guide](https://github.com/axelerant/engineering/blob/main/audit.md)
 - [Slide, Auditing Drupal Sites](https://www.slideshare.net/exove/auditing-drupal-sites)
 - [The Gizra way pricing method](https://gist.github.com/theodorosploumis/826412bb5f2dd0aadf2728f950ffa225)
 - [Palantir Build Spec 1.0 - Google Sheets](https://docs.google.com/spreadsheets/d/15htLLWLguhwiuTLg_nndQNpgWVdUMy6UaR_d1q-v6iw/edit#gid=0)
@@ -129,4 +129,5 @@ https://drupalconsole.com/docs/en/commands
 - [Video, Bay Area Drupal Camp 2015: How to do a Site Audit](https://www.youtube.com/watch?v=ZLTlJ_6aYGQ)
 - [Video, DrupalCon New Orleans 2016: How to audit Drupal Sites for performance, content and best practices](https://www.youtube.com/watch?v=A0XCRETqfYk)
 - [Video, How to audit Drupal Sites for performance, content and best practices, 2016](https://www.youtube.com/watch?v=EXIV6CxdseQ)
+- [Video series - Estimation in Drupal Projects, Drupalize.me](https://drupalize.me/videos/estimation-drupal-projects?p=2203)
 
