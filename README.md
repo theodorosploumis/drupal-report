@@ -80,6 +80,7 @@ Example [report here](example-report.md).
 - [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
 - [erd (7.x, 8.x)](https://www.drupal.org/project/erd)
 - [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer)
+- [entity_dependency_visualizer (8x)](https://www.drupal.org/project/entity_dependency_visualizer)
 - [quant (7.x)](https://www.drupal.org/project/quant)
 - [panels_pane_report (7.x)](https://www.drupal.org/project/panels_pane_report)
 - [upgrade_check (6.x, 7.x)](https://www.drupal.org/project/upgrade_check)
