@@ -75,6 +75,7 @@ Example [report here](example-report.md).
 - [systeminfo (7.x)](https://www.drupal.org/project/systeminfo)
 - [field_report (8.x)](https://www.drupal.org/project/field_report)
 - [entity_reports (8.x)](https://www.drupal.org/project/entity_reports)
+- [documentation_export (8.x)](https://www.drupal.org/project/documentation_export)
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
 - [plugin (8.x)](https://www.drupal.org/project/plugin)
 - [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
