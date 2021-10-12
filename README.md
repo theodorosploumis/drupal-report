@@ -4,7 +4,7 @@
 > Before giving a proposal (RFP) you need to inspect the site! But inspecting a Drupal site is not as simple as you believe...
 > Here is a **basic checklist** of the Report that you need to deliver before doing anything on the site.
 
-See and **example of a report on [example-report.md](https://github.com/theodorosploumis/drupal-report/blob/master/example-report.md).
+See and **example of a report on [example-report.md](https://github.com/theodorosploumis/drupal-report/blob/master/example-report.md)**.
 
 ### Before the Report needs
 - [ ] **Technical specification document** (if exists).
