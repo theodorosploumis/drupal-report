@@ -121,7 +121,6 @@ https://drupalconsole.com/docs/en/commands
 - [Drupal Early Estimation Sheet Template (version 3, Feb 2011) - Google Sheets](https://docs.google.com/spreadsheets/d/13MGHIxFOtbJ2Qxygc_GxKzxqghLiK1-7YgNiq95ypWE/edit?hl=en#gid=0)
 - [Drupal Spec Tool v2.0.0 (current) - Google Sheets](https://docs.google.com/spreadsheets/d/1h-SieCV9Dtrj8F4bqMvsbcHwIibN30j2oR9FMRDFT-8/edit#gid=0)
 - [Drupal Estimation Techniques by Project Managers](https://www.slideshare.net/jakobpersson/drupal-estimation-techniques-by-project-managers)
-- [D8 Upgradation Estimate](http://migrate.opensenselabs.com/migration-report/techtud)
 - [Drupal fixed budget projects : the art of estimates](https://www.slideshare.net/MaximeTopolov/drupal-fixed-budget-projets-the-art-of-estimates)
 - [How Big, How Long, How Much: Estimating Drupal Project Size, Duration, and Cost - YouTube](https://www.youtube.com/watch?v=cIrdqyw0tvc)
 - [How we estimate our Drupal web development projects — Internetdevels](https://internetdevels.com/blog/how-we-estimate-drupal-web-development-projects)
