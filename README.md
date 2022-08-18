@@ -127,6 +127,7 @@ https://drupalconsole.com/docs/en/commands
 - [Estimating Drupal Projects | Metal Toad](https://www.metaltoad.com/blog/estimating-drupal-projects)
 - [Are we afraid to estimate our work in Drupal and open source? - Drupal Webform Estimation Open Source](https://www.jrockowitz.com/blog/estimation)
 - [10 problems with Web Development Projects and how we've solved them](https://www.freelock.com/newsletter/10-problems-web-development-projects-and-how-weve-solved-them)
+- [EvolvingWeb.ca: Writing an RFP for Web Development and Design](https://evolvingweb.ca/blog/writing-rfp-web-development-and-design)
 - [Video, DrupalCon New Orleans 2016: Let's be honest: Estimation is guessing](https://www.youtube.com/watch?v=rcYYOquSk-Y)
 - [Video, DrupalCon Vienna 2017: Estimates are dead, long live forecasting!](https://www.youtube.com/watch?v=_pxWPGYRLDA)
 - [Video, DrupalCon Denver 2012: NO RFPS! WHY REQUESTS FOR PROPOSALS ARE BAD FOR BUSINESS](https://www.youtube.com/watch?v=25ii8fNisP4)
