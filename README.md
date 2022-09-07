@@ -1,5 +1,7 @@
 # Drupal fixes & changes Report, RFP tips
 
+See also [theodorosploumis/drupal-best-practices](https://github.com/theodorosploumis/drupal-best-practices).
+
 > How to estimate the costs and time needed to fix issues or make changes to a Drupal website that you did not develop!
 > Before giving a proposal (RFP) you need to inspect the site! But inspecting a Drupal site is not as simple as you believe...
 > Here is a **basic checklist** of the Report that you need to deliver before doing anything on the site.
