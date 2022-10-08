@@ -70,6 +70,7 @@ Other (not so important but could be important)
 Example [report here](example-report.md).
 
 ### Useful Drupal modules
+- [entitiesinfo, 8.x](https://www.drupal.org/project/entitiesinfo)
 - [content_type_report (7.x)](https://www.drupal.org/project/content_type_report)
 - [forena (7.x, 8.x)](https://www.drupal.org/project/forena)
 - [site_audit (7.x, 8.x)](https://www.drupal.org/project/site_audit)
