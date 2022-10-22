@@ -127,7 +127,7 @@ https://drupalconsole.com/docs/en/commands
 - [Drupal Estimation Techniques by Project Managers](https://www.slideshare.net/jakobpersson/drupal-estimation-techniques-by-project-managers)
 - [Drupal fixed budget projects : the art of estimates](https://www.slideshare.net/MaximeTopolov/drupal-fixed-budget-projets-the-art-of-estimates)
 - [How Big, How Long, How Much: Estimating Drupal Project Size, Duration, and Cost - YouTube](https://www.youtube.com/watch?v=cIrdqyw0tvc)
-- [How we estimate our Drupal web development projects — Internetdevels](https://internetdevels.com/blog/how-we-estimate-drupal-web-development-projects)
+- [How we estimate our Drupal web development projects - Internetdevels](https://internetdevels.com/blog/how-we-estimate-drupal-web-development-projects)
 - [Estimating Drupal Projects | Metal Toad](https://www.metaltoad.com/blog/estimating-drupal-projects)
 - [Are we afraid to estimate our work in Drupal and open source? - Drupal Webform Estimation Open Source](https://www.jrockowitz.com/blog/estimation)
 - [10 problems with Web Development Projects and how we've solved them](https://www.freelock.com/newsletter/10-problems-web-development-projects-and-how-weve-solved-them)
