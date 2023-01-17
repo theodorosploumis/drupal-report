@@ -71,9 +71,6 @@ Example [report here](example-report.md).
 
 ### Useful Drupal modules
 
-- [upgrade_check (6.x, 7.x)](https://www.drupal.org/project/upgrade_check)
-- [d8_migration_check (7.x)](https://www.drupal.org/project/d8_migration_check)
-- [mysqlreport (7x)](https://www.drupal.org/project/mysqlreport)
 - [quant (7.x)](https://www.drupal.org/project/quant)
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
 - [panels_pane_report (7.x)](https://www.drupal.org/project/panels_pane_report)
@@ -97,6 +94,8 @@ Example [report here](example-report.md).
 - [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
 - [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer)
 - [entity_dependency_visualizer (8x)](https://www.drupal.org/project/entity_dependency_visualizer)
+- [upgrade_check (6.x, 7.x, - obsolete)](https://www.drupal.org/project/upgrade_check)
+- [d8_migration_check (7.x, - obsolete)](https://www.drupal.org/project/d8_migration_check)
 - [mglaman/drupal-check](https://github.com/mglaman/drupal-check)
 
 ### Drupal Console commands
