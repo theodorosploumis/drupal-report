@@ -73,6 +73,7 @@ Example [report here](example-report.md).
 
 - [upgrade_check (6.x, 7.x)](https://www.drupal.org/project/upgrade_check)
 - [d8_migration_check (7.x)](https://www.drupal.org/project/d8_migration_check)
+- [mysqlreport (7x)](https://www.drupal.org/project/mysqlreport)
 - [quant (7.x)](https://www.drupal.org/project/quant)
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
 - [content_type_report (7.x)](https://www.drupal.org/project/content_type_report)
@@ -80,6 +81,7 @@ Example [report here](example-report.md).
 - [systeminfo (7.x)](https://www.drupal.org/project/systeminfo)
 - [forena (7.x, 8.x)](https://www.drupal.org/project/forena)
 - [erd (7.x, 8.x)](https://www.drupal.org/project/erd)
+- [unused_modules (7.x, 8.x)](https://www.drupal.org/project/unused_modules)
 - [site_audit (7.x, 8.x)](https://www.drupal.org/project/site_audit)
 - [security_review (7.x, 8.x)](https://www.drupal.org/project/security_review)
 - [seckit (7.x, 8.x)](https://www.drupal.org/project/seckit)
