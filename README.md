@@ -94,8 +94,9 @@ Example [report here](example-report.md).
 - [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
 - [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer)
 - [entity_dependency_visualizer (8x)](https://www.drupal.org/project/entity_dependency_visualizer)
-- [upgrade_check (6.x, 7.x, - obsolete)](https://www.drupal.org/project/upgrade_check)
-- [d8_migration_check (7.x, - obsolete)](https://www.drupal.org/project/d8_migration_check)
+- [upgrade_check (6.x, 7.x - obsolete)](https://www.drupal.org/project/upgrade_check)
+- [d8_migration_check (7.x - obsolete)](https://www.drupal.org/project/d8_migration_check)
+- [migration_audit_reports (7.x)](https://www.drupal.org/project/migration_audit_reports)
 - [mglaman/drupal-check](https://github.com/mglaman/drupal-check)
 
 ### Drupal Console commands
