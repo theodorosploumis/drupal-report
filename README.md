@@ -98,6 +98,7 @@ Example [report here](example-report.md).
 - [d8_migration_check (7.x - obsolete)](https://www.drupal.org/project/d8_migration_check)
 - [migration_audit_reports (7.x)](https://www.drupal.org/project/migration_audit_reports)
 - [mglaman/drupal-check](https://github.com/mglaman/drupal-check)
+- [field_tools (8.x)](https://www.drupal.org/project/field_tools)
 
 ### Drupal Console commands
 
