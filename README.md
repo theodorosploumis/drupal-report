@@ -75,35 +75,24 @@ Example [report here](example-report.md).
 
 ### Useful Drupal modules
 
-- [quant (7.x)](https://www.drupal.org/project/quant)
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
-- [panels_pane_report (7.x)](https://www.drupal.org/project/panels_pane_report)
-- [systeminfo (7.x)](https://www.drupal.org/project/systeminfo)
-- [forena (7.x, 8.x)](https://www.drupal.org/project/forena)
+- [content_type_report (8.x)](https://www.drupal.org/project/content_type_report)
+- [documentation_export (8.x)](https://www.drupal.org/project/documentation_export)
+- [entity_mesh, 10x]((https://www.drupal.org/project/entity_mesh)
+- [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
 - [erd (7.x, 8.x)](https://www.drupal.org/project/erd)
-- [unused_modules (7.x, 8.x)](https://www.drupal.org/project/unused_modules)
-- [site_audit (7.x, 8.x)](https://www.drupal.org/project/site_audit)
-- [security_review (7.x, 8.x)](https://www.drupal.org/project/security_review)
+- [field_tools (8.x)](https://www.drupal.org/project/field_tools)
+- [field_report (8.x)](https://www.drupal.org/project/field_report)
+- [mglaman/drupal-check](https://github.com/mglaman/drupal-check)
+- [plugin (8.x)](https://www.drupal.org/project/plugin)
+- [prod_check (7.x, 8.x)](https://www.drupal.org/project/prod_check)
+- [quant (7.x)](https://www.drupal.org/project/quant)
 - [seckit (7.x, 8.x)](https://www.drupal.org/project/seckit)
 - [seo_checklist (7.x, 8.x)](https://www.drupal.org/project/seo_checklist)
-- [prod_check (7.x, 8.x)](https://www.drupal.org/project/prod_check)
-- [content_type_report (8.x)](https://www.drupal.org/project/content_type_report)
-- [entities_info (8.x)](https://www.drupal.org/project/entities_info)
-- [entitiesinfo (8.x)](https://www.drupal.org/project/entitiesinfo)
-- [field_report (8.x)](https://www.drupal.org/project/field_report)
-- [entity_reports (8.x)](https://www.drupal.org/project/entity_reports)
-- [site_complexity (8.x)](https://www.drupal.org/project/site_complexity)
-- [documentation_export (8.x)](https://www.drupal.org/project/documentation_export)
-- [plugin (8.x)](https://www.drupal.org/project/plugin)
-- [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
-- [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer)
-- [entity_dependency_visualizer (8x)](https://www.drupal.org/project/entity_dependency_visualizer)
-- [upgrade_check (6.x, 7.x - obsolete)](https://www.drupal.org/project/upgrade_check)
-- [d8_migration_check (7.x - obsolete)](https://www.drupal.org/project/d8_migration_check)
-- [migration_audit_reports (7.x)](https://www.drupal.org/project/migration_audit_reports)
-- [mglaman/drupal-check](https://github.com/mglaman/drupal-check)
-- [field_tools (8.x)](https://www.drupal.org/project/field_tools)
-- [entity_mesh, 10x](https://www.drupal.org/project/entity_mesh)
+- [security_review (7.x, 8.x)](https://www.drupal.org/project/security_review)
+- [unused_modules (7.x, 8.x)](https://www.drupal.org/project/unused_modules)
+
+[Obsolete and Unssupported modules list](OBSOLETE_MODULES.md)
 
 ### Drupal Console commands
 
@@ -118,24 +107,6 @@ https://drupalconsole.com/docs/en/commands
 
 ### Unsupported, Obsolete, Deprecated modules
 
-The following modules from the list above have been identified as **unsupported, obsolete, or deprecated** and should not be used in new Drupal projects:
-
-#### Definitely Unsupported/Obsolete:
-
-- [forena (7.x, 8.x)](https://www.drupal.org/project/forena) - **Unsupported**: Not covered by Drupal's security advisory policy, original maintainer stepped down, essentially abandoned
-- [panels_pane_report (7.x)](https://www.drupal.org/project/panels_pane_report) - **Unsupported**: No longer maintained by developers
-- [systeminfo (7.x)](https://www.drupal.org/project/systeminfo) - **Deprecated/Unsupported**: Obsolete and no longer maintained
-- [entities_info (8.x)](https://www.drupal.org/project/entities_info) - **Deprecated**: Obsolete, no further development, last release 2017
-- [field_tools (8.x)](https://www.drupal.org/project/field_tools) - **Unsupported**: Marked as unsupported, no longer maintained
-- [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer) - **Unsupported**: Obsolete, no maintainers
-- [entitiesinfo (8.x)](https://www.drupal.org/project/entitiesinfo) - **Deprecated**: No longer maintained and has been deprecated
-- [upgrade_check (6.x, 7.x - obsolete)](https://www.drupal.org/project/upgrade_check) - **Obsolete**: Marked as obsolete
-- [d8_migration_check (7.x - obsolete)](https://www.drupal.org/project/d8_migration_check) - **Obsolete**: Marked as obsolete
-
-#### Potentially Unsupported/Limited Support:
-
-- [content_report (7.x, 8.x)](https://www.drupal.org/project/content_report) - **Limited Support**: Not covered by Drupal's security advisory policy, may have security vulnerabilities
-- [migration_audit_reports (7.x)](https://www.drupal.org/project/migration_audit_reports) - **Limited Support**: Drupal 7 focused, limited ongoing development
 
 #### Notes:
 
@@ -179,4 +150,3 @@ The following modules from the list above have been identified as **unsupported,
 - [Video, DrupalCon New Orleans 2016: How to audit Drupal Sites for performance, content and best practices](https://www.youtube.com/watch?v=A0XCRETqfYk)
 - [Video, How to audit Drupal Sites for performance, content and best practices, 2016](https://www.youtube.com/watch?v=EXIV6CxdseQ)
 - [Video series - Estimation in Drupal Projects, Drupalize.me](https://drupalize.me/videos/estimation-drupal-projects?p=2203)
-
