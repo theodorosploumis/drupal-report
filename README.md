@@ -96,24 +96,16 @@ Example [report here](example-report.md).
 
 ### Drupal Console commands
 
-https://drupalconsole.com/docs/en/commands
+https://github.com/hechoendrupal/drupal-console
 
 - drupal field:info
 - drupal debug:\*
 
+> Note that Drupal Console is obsolete since 2022.
+
 ### Scripts to generate software report
 
 - https://github.com/theodorosploumis/generate_drupal_report
-
-### Unsupported, Obsolete, Deprecated modules
-
-
-#### Notes:
-
-- The modules above should be removed from the "Useful Drupal modules" section when considering new Drupal projects
-- For existing sites using these modules, plan migration to supported alternatives
-- Always check Drupal.org for the most current project status before using any module
-- Modules not covered by Drupal's security advisory policy pose security risks
 
 ### My thoughts
 
