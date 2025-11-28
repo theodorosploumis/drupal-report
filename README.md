@@ -78,7 +78,7 @@ Example [report here](example-report.md).
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
 - [content_type_report (8.x)](https://www.drupal.org/project/content_type_report)
 - [documentation_export (8.x)](https://www.drupal.org/project/documentation_export)
-- [entity_mesh, 10x]((https://www.drupal.org/project/entity_mesh)
+- [entity_mesh, 10x](https://www.drupal.org/project/entity_mesh)
 - [entity_relationship (8.x)](https://github.com/skilld-labs/entity_relationship)
 - [erd (7.x, 8.x)](https://www.drupal.org/project/erd)
 - [field_tools (8.x)](https://www.drupal.org/project/field_tools)
