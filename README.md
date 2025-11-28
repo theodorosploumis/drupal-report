@@ -9,6 +9,7 @@ See also [theodorosploumis/drupal-best-practices](https://github.com/theodorospl
 See and **example of a report on [example-report.md](https://github.com/theodorosploumis/drupal-report/blob/master/example-report.md)**.
 
 ### Before the Report needs
+
 - [ ] **Technical specification document** (if exists).
 - [ ] Current **Process flow diagram** (in case the system communicates with other services)
 - [ ] **Drupal admin credentials** (user 1, or Admin role account). This is needed to check the existing structure, functionality, modules etc. Normally there whould be a dev subdomain to log in. If not credentials and demo provided ask for the git code and a dumb database to install the project locally.
@@ -32,6 +33,7 @@ Other (not so important but could be important)
 - [ ] Other services credentials (eg CDN, SSL provider, Google Analytics etc) that are used.
 
 ### Common Reports
+
 - [ ] Site performance (use well known services such as [PageSpeed](https://developers.google.com/speed/pagespeed/insights), [gtmetrix](https://gtmetrix.com) and [yellowlab.tools](https://yellowlab.tools))
 - [ ] SEO (Does the project follow the basic SEO rules?)
 - [ ] Mobile UX and design (does it work well on small screens?)
@@ -39,6 +41,7 @@ Other (not so important but could be important)
 - [ ] Security issues reports (eg using [hackertarget.com/drupal-security-scan](https://hackertarget.com/drupal-security-scan/), [securityheaders.com](https://securityheaders.com/), [sitecheck.sucuri.net](https://sitecheck.sucuri.net/))
 
 ### Drupal specific Reports
+
 - [ ] Drupal content Structure (Content types, taxonomy etc)
 - [ ] What is the main functionality (Features and Functionality, F&F) provided (eg login, register, add comments, share content etc)
 - [ ] Drupal forms
@@ -61,6 +64,7 @@ Other (not so important but could be important)
 - [ ] PHP and server settings (eg using a high php memory limit, not protected settings file etc)
 
 ### What to deliver
+
 - [ ] A **pdf** of the report (use Google Docs to create the official report)
 - [ ] Include images/screenshots when needed to explain the text
 - [ ] **Propose changes** with details for every aspect that need to change
@@ -112,7 +116,36 @@ https://drupalconsole.com/docs/en/commands
 
 - https://github.com/theodorosploumis/generate_drupal_report
 
+### Unsupported, Obsolete, Deprecated modules
+
+The following modules from the list above have been identified as **unsupported, obsolete, or deprecated** and should not be used in new Drupal projects:
+
+#### Definitely Unsupported/Obsolete:
+
+- [forena (7.x, 8.x)](https://www.drupal.org/project/forena) - **Unsupported**: Not covered by Drupal's security advisory policy, original maintainer stepped down, essentially abandoned
+- [panels_pane_report (7.x)](https://www.drupal.org/project/panels_pane_report) - **Unsupported**: No longer maintained by developers
+- [systeminfo (7.x)](https://www.drupal.org/project/systeminfo) - **Deprecated/Unsupported**: Obsolete and no longer maintained
+- [entities_info (8.x)](https://www.drupal.org/project/entities_info) - **Deprecated**: Obsolete, no further development, last release 2017
+- [field_tools (8.x)](https://www.drupal.org/project/field_tools) - **Unsupported**: Marked as unsupported, no longer maintained
+- [dependency_visualizer (8.x)](https://www.drupal.org/project/dependency_visualizer) - **Unsupported**: Obsolete, no maintainers
+- [entitiesinfo (8.x)](https://www.drupal.org/project/entitiesinfo) - **Deprecated**: No longer maintained and has been deprecated
+- [upgrade_check (6.x, 7.x - obsolete)](https://www.drupal.org/project/upgrade_check) - **Obsolete**: Marked as obsolete
+- [d8_migration_check (7.x - obsolete)](https://www.drupal.org/project/d8_migration_check) - **Obsolete**: Marked as obsolete
+
+#### Potentially Unsupported/Limited Support:
+
+- [content_report (7.x, 8.x)](https://www.drupal.org/project/content_report) - **Limited Support**: Not covered by Drupal's security advisory policy, may have security vulnerabilities
+- [migration_audit_reports (7.x)](https://www.drupal.org/project/migration_audit_reports) - **Limited Support**: Drupal 7 focused, limited ongoing development
+
+#### Notes:
+
+- The modules above should be removed from the "Useful Drupal modules" section when considering new Drupal projects
+- For existing sites using these modules, plan migration to supported alternatives
+- Always check Drupal.org for the most current project status before using any module
+- Modules not covered by Drupal's security advisory policy pose security risks
+
 ### My thoughts
+
 - Avoid giving an estimate/proposal before making a site Report.
 - Do not start the Report before getting the credentials or a demo.
 - Try to find out what does the website mean for the owner (eg if it is the main income source).
@@ -124,6 +157,7 @@ https://drupalconsole.com/docs/en/commands
 - Such projects are good to "learn" new things and other people practices (educational projects).
 
 ### Useful resources
+
 - [Drupal Audit Guide](https://github.com/axelerant/engineering/blob/main/audit.md)
 - [Slide, Auditing Drupal Sites](https://www.slideshare.net/exove/auditing-drupal-sites)
 - [The Gizra way pricing method](https://gist.github.com/theodorosploumis/826412bb5f2dd0aadf2728f950ffa225)
