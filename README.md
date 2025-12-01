@@ -75,7 +75,7 @@ Example [report here](example-report.md).
 
 ### Useful Drupal modules
 
-- [audit_export(17.x, 10,x)](https://www.drupal.org/project/audit_export)
+- [audit_export (7.x, 10,x)](https://www.drupal.org/project/audit_export)
 - [content_report (7.x)](https://www.drupal.org/project/content_report)
 - [content_type_report (8.x)](https://www.drupal.org/project/content_type_report)
 - [documentation_export (8.x)](https://www.drupal.org/project/documentation_export)
